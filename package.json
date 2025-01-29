@@ -1,0 +1,20 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yo",
+  "license": "ISC",
+  "description": "hola mundo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brisam-oss/Practica1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brisam-oss/Practica1/issues"
+  },
+  "homepage": "https://github.com/Brisam-oss/Practica1#readme"
+}
